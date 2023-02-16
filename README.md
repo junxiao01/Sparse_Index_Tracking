@@ -7,7 +7,7 @@ Financial index tracking is a passive strategy in asset investment. Instead of d
 - Least regression with MC penalty [1]
 - LAIT [2]
 
-[1] Zhang, Cun-Hui. "Nearly unbiased variable selection under minimax concave penalty." (2010): 894-942.
+[1] Zhang, Cun-Hui. "Nearly unbiased variable selection under minimax concave penalty." (2010): 894-942.  
 [2] Benidis, K., Feng, Y., & Palomar, D. P. (2017). Sparse portfolios for high-dimensional financial index tracking. IEEE Transactions on signal processing, 66(1), 155-170.
 
 The results of different methods are shown as below:
