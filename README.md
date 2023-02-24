@@ -22,9 +22,9 @@ The results of different methods are shown as below:
 | MCPenalty | 1.0422 | 1.4415 | 1.0899 | -0.3123 |  
 | LAIT | 0.8184 | 1.0352 | 0.7982 | -0.2632 |  
 
-To do
-	[ ] apply advanced deep learning algorithms for sparse financial index tracking
-	[ ] further improve the deep learning-based models
+To do  
+	[ ] apply advanced deep learning algorithms for sparse financial index tracking  
+	[ ] further improve the deep learning-based models  
 
 [1] Zhang, Cun-Hui. "Nearly unbiased variable selection under minimax concave penalty." (2010): 894-942.  
 [2] Benidis, K., Feng, Y., & Palomar, D. P. (2017). Sparse portfolios for high-dimensional financial index tracking. IEEE Transactions on signal processing, 66(1), 155-170.
