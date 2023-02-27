@@ -1,4 +1,4 @@
-# Sparse_Index_Tracking
+# Sparse Index Tracking with Sparse Models
 
 Financial index tracking is a passive strategy in asset investment. Instead of dense asset allocation, sparse index tracking have several advantages, e.g., small transaction costs. Here, four sparse index tracking methods are impletemented, which are
 
@@ -16,10 +16,10 @@ The results of different methods are shown as below:
 
 | Methods | Sharpe Ratio | Sortion Ratio | Calmer Ratio | Max Drawdown|
 | :---------: | :---: | :---: | :---: | :---: |
-| SP500 | 0.6384 | 0.8027 | 0.6169| -0.2631|  
-| LASSO | 0.8055 | 1.1078 | 0.7579 | -0.4032 |  
-| WeightedLASSO | 0.7692 | 0.9768 | 0.7272 | -0.2824 |  
-| MCPenalty | 1.0422 | 1.4415 | 1.0899 | -0.3123 |  
+| Nasdaq-100 | 0.6384 | 0.8027 | 0.6169| -0.2631|  
+| LASSO | 0.7225 | 0.9167 | 0.7039 | -0.2716 |  
+| WeightedLASSO | 0.7660 | 0.9672 | 0.7568 | -0.2621 |  
+| MCPenalty | 0.9347 | 1.2175 | 1.0229 | -0.2489 |  
 | LAIT | 0.8184 | 1.0352 | 0.7982 | -0.2632 |  
 
 To do  
