@@ -50,12 +50,12 @@ def comp_MDD(X):
     
     maxDD, i = np.min(drawdown), np.argmin(drawdown)
     maxDDD = np.max(drawdownduration)
-    return maxDD, maxDDD, i
+    return drawdown, maxDD, maxDDD, i
 
 def comp_calmar_ratio(X):
 
 
     mean_ = X.mean() * 255
-    maxDD, maxDDD, i = comp_MDD(X)
+    drawdown, maxDD, maxDDD, i = comp_MDD(X)
 
     return mean_ / abs(maxDD)
