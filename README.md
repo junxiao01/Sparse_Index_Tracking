@@ -23,6 +23,8 @@ The results of different methods are shown as below:
 | LAIT | 0.8184 | 1.0352 | 0.7982 | -0.2632 |  
 
 
+The details of drawdown of different methods are shown as follows:
+
 ![](https://raw.githubusercontent.com/Gwan-Siu/Sparse_Index_Tracking/main/results/drawdown.png)
 
 
